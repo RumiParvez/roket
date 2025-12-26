@@ -1,0 +1,5 @@
+{
+  "name": "WebOrbit: Advanced Rocket Simulator",
+  "description": "A high-fidelity 2D orbital rocket simulation with realistic atmospheric physics, multi-stage configurations, and AI-powered flight analysis.",
+  "requestFramePermissions": []
+}
